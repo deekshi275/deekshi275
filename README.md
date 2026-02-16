@@ -65,6 +65,12 @@ Ride-sharing platform connecting drivers and passengers efficiently.
 Web app for tracking and managing student attendance.
 -----
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deekshi275&theme=radical&hide_border=true"/>
+</p>
+
 # 🐉 Contribution Graph
 
 <p align="center">
