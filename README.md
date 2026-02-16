@@ -8,7 +8,7 @@
   <b>Connect with me:</b>  
   <a href="https://www.linkedin.com/in/deekshith-bh/" target="_blank">LinkedIn</a> | 
   <a href="https://deekshi275.github.io/portfolio/" target="_blank">Portfolio</a> | 
-  <a href="https://drive.google.com/file/d/your-resume-link/view?usp=sharing" target="_blank">Resume</a> | 
+  <a href="https://drive.google.com/file/d/1dXExY1f5UNw4bNQR1TivXOgde1JWT-H5/view?usp=drivesdk" target="_blank">Resume</a> | 
   <a href="mailto:deekshithbh04@gmail.com">Email</a>
 </p>
 
