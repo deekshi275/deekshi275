@@ -93,11 +93,12 @@ I emphasize **clean code, performance, and learning step by step**.
 </p>
 
 ---
-## 🐍 Contribution Snake
+## 🐍 The North Remembers
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/deekshi275/deekshi275/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 
 # 🌐 Connect
