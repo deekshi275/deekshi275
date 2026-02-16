@@ -1,6 +1,10 @@
-<!-- CINEMATIC HEADER -->
+<!-- 🎬 Game of Thrones Style Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Deekshith&fontSize=60&fontColor=E6F1FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1c1c2e,100:302b63&height=250&section=header&text=Deekshith&fontSize=70&fontColor=E6F1FF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=20&fontAlign=middle" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=28&duration=4000&pause=1000&color=C0C0FF&center=true&vCenter=true&width=700&lines=Winter+is+Coming...;Code+with+Honor;Build+with+Purpose;Stay+Consistent" />
 </p>
 
 <!-- Links Section Right After Header -->
@@ -55,21 +59,32 @@ I emphasize **clean code, performance, and learning step by step**.
 
 # 🐺 Projects
 
-### 🌦 Weather Broadcast  
-Real-time weather app using API integration with a dynamic UI.
+### 🌦 Weather Broadcast
+- **Description:** Real-time weather app fetching data from OpenWeatherMap API.  
+- **Features:** Search by city, dynamic UI updates, responsive design.  
+- **Tech:** Python, JavaScript, HTML, CSS, API integration.  
+- **Demo:** [Live Demo](https://your-weather-demo-link.com) | [GitHub Repo](https://github.com/deekshi275/weather-broadcast)
 
-### 🚗 Car Pool Drive Sharing  
-Ride-sharing platform connecting drivers and passengers efficiently.
+### 🚗 Car Pool Drive Sharing
+- **Description:** A platform connecting drivers and passengers for carpooling.  
+- **Features:** User authentication, ride posting, joining rides, Firebase backend.  
+- **Tech:** React, Firebase, CSS3.  
+- **Demo:** [Live Demo](https://your-carpool-demo-link.com) | [GitHub Repo](https://github.com/deekshi275/carpool-drive)
 
-### 🏫 Attendance Management System  
-Web app for tracking and managing student attendance.
+### 🏫 Attendance Management System
+- **Description:** Web app to track student attendance digitally.  
+- **Features:** Admin panel, student login, attendance reports, CSV export.  
+- **Tech:** Django, Python, HTML, CSS, SQL.  
+- **Demo:** [Live Demo](https://your-attendance-demo-link.com) | [GitHub Repo](https://github.com/deekshi275/attendance-management)
+
 -----
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=deekshi275&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deekshi275&theme=tokyonight&hide_border=true" />
 </p>
+
 
 # 🐉 Contribution Graph
 
