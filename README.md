@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=28&duration=4000&pause=1000&color=C0C0FF&center=true&vCenter=true&width=700&lines=Winter+is+Coming...;Code+with+Honor;Build+with+Purpose;Stay+Consistent" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=28&duration=4000&pause=1000&color=C0C0FF&center=true&vCenter=true&width=700&lines=Code+with+Honor;Build+with+Purpose;Stay+Consistent" />
 </p>
 
 <!-- Links Section Right After Header -->
