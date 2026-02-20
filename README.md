@@ -11,7 +11,7 @@
 <p align="center">
   <b>Connect with me:</b>  
   <a href="https://www.linkedin.com/in/deekshith-bh/" target="_blank">LinkedIn</a> | 
-  <a href="https://deekshi275.github.io/portfolio/" target="_blank">Portfolio</a> | 
+  <a href="portfolio-f4evwp19n-deekshi275s-projects.vercel.app" target="_blank">Portfolio</a> | 
   <a href="https://drive.google.com/file/d/1A3ea_zIb7aEYEXYY_G6S0yJfO52kCiXN/view?usp=drivesdk" target="_blank">Resume</a> | 
   <a href="mailto:deekshithbh04@gmail.com">Email</a>
 </p>
