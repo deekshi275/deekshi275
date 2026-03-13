@@ -78,16 +78,12 @@ I emphasize **clean code, performance, and learning step by step**.
 - **Demo:** [Live Demo](https://your-attendance-demo-link.com) | [GitHub Repo](https://github.com/deekshi275/attendance-management)
 
 -----
-
-
-
-# 🐉 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deekshi275&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
 
 # 🌐 Connect
 
